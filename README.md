@@ -1,4 +1,4 @@
 blog
 ====
 
-blog : http://jkhl.github.io/blog
+http://jkhl.github.io/blog
